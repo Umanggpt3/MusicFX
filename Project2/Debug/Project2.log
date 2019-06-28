@@ -1,0 +1,16 @@
+﻿  MyForm.cpp
+c:\users\umang\source\repos\project2\project2\myform.h(443): warning C4551: function call missing argument list
+c:\users\umang\source\repos\project2\project2\myform.h(444): warning C4551: function call missing argument list
+c:\users\umang\source\repos\project2\project2\myform.h(446): warning C4101: 'myfile': unreferenced local variable
+c:\users\umang\source\repos\project2\project2\myform.h(472): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\umang\source\repos\project2\project2\myform.h(473): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\umang\source\repos\project2\project2\myform.h(549): warning C4551: function call missing argument list
+c:\users\umang\source\repos\project2\project2\myform.h(550): warning C4551: function call missing argument list
+c:\users\umang\source\repos\project2\project2\myform.h(552): warning C4551: function call missing argument list
+c:\users\umang\source\repos\project2\project2\myform.h(580): warning C4018: '<': signed/unsigned mismatch
+c:\users\umang\source\repos\project2\project2\myform.h(579): warning C4101: 'i': unreferenced local variable
+c:\users\umang\source\repos\project2\project2\myform.h(600): warning C4551: function call missing argument list
+c:\users\umang\source\repos\project2\project2\myform.h(601): warning C4551: function call missing argument list
+c:\users\umang\source\repos\project2\project2\myform.cpp(7): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project2.vcxproj -> C:\Users\Umang\source\repos\Project2\Debug\Project2.exe
